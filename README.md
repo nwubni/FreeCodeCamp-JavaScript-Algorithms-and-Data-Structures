@@ -4,4 +4,4 @@ These are my project solutions to the FreeCodeCamp JavaScript Algorithms and Dat
 
 ## Objective
 
-I am sharing my source code so anyone can learn from them or offer better alternatives.
+I am sharing my solutions so anyone can learn from them or offer better alternatives.
